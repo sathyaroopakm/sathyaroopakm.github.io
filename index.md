@@ -18,6 +18,11 @@ title: "Sathyaroopa K M - Resume"
 ---
 
 ## 💼 Internship Experience
+
+- **Advit Law Chambers - Chennai, India**
+  *(June 2025 - July 2025)*
+  Observed proceedings in labour courts and engaged in research related to POSH Act and labour laws.
+  
 - **Advocate Veena, CMDA Council — Chennai, India** *(Jan 2025)*  
   Observed proceedings in the Madras High Court and participated in client meetings.  
 
@@ -27,9 +32,6 @@ title: "Sathyaroopa K M - Resume"
 - **Advocate Appuswamy — Erode, India** *(Feb 2023 – Mar 2023)*  
   Exposure to contract drafting and observed discussions on civil & criminal matters.
   
-- **Advit Law Chambers - Chennai, India**
-  *(June 2025 - July 2025)*
-  Observed proceedings in labour courts and engaged in research related to POSH Act and labour laws.
 
 ---
 
