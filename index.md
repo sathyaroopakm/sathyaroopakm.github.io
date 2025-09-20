@@ -27,7 +27,7 @@ title: "Sathyaroopa K M - Resume"
 - **Advocate Appuswamy — Erode, India** *(Feb 2023 – Mar 2023)*  
   Exposure to contract drafting and observed discussions on civil & criminal matters.
   
-  -**Advit Law Chambers - Chennai, India**
+- **Advit Law Chambers - Chennai, India**
   *(June 2025 - July 2025)*
   Observed proceedings in labour courts and engaged in research related to POSH Act and labour laws.
 
