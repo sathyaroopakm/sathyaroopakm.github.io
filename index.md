@@ -4,14 +4,14 @@ title: "Sathyaroopa K M - Resume"
 ---
 
 # Sathyaroopa K M
-**B.A.; LL.B.(Hons.), Third year, SASTRA University**  
-📞 +91 8825910464 | ✉️ [sathyaroopa.03@gmail.com](mailto:sathyaroopa.03@gmail.com)
+**B.A.; LL.B.(Hons.), Fourth year, SASTRA University**  
+📞 +91 8825910464 | ✉️ [sathyaroopakm@gmail.com](mailto:sathyaroopakm@gmail.com)
 
 ---
 
 ## 🎓 Education
 - **SASTRA University**, Thanjavur, India (2022–2027)  
-  B.A.; LL.B. (Hons.) — Currently pursuing third year.  
+  B.A.; LL.B. (Hons.) — Currently pursuing fourth year.  
 
 - **Bharathi Vidya Bhavan**, Erode, India (Graduated 2022)
 
@@ -25,7 +25,11 @@ title: "Sathyaroopa K M - Resume"
   Learnt about ADR proceedings and gained insights into district court practices.  
 
 - **Advocate Appuswamy — Erode, India** *(Feb 2023 – Mar 2023)*  
-  Exposure to contract drafting and observed discussions on civil & criminal matters.  
+  Exposure to contract drafting and observed discussions on civil & criminal matters.
+  
+  -**Advit Law Chambers - Chennai, India**
+  *(June 2025 - July 2025)*
+  Observed proceedings in labour courts and engaged in research related to POSH Act and labour laws.
 
 ---
 
@@ -38,7 +42,8 @@ title: "Sathyaroopa K M - Resume"
 ## 🛠 Skills
 - Good listener  
 - Leadership qualities  
-- Researcher  
+- Researcher
+- Writer
 
 ---
 
